@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JaypeeB-Ph
-- 👀 I’m interested in developing softwares.
-- 🌱 I’m currently learning a lot of things.
-- 💞️ I’m looking to collaborate on future projects.
-- 📫 How to reach me? email me jbolonia912@gmail.com
+- 👋 Hi, I’m Cryptoji
+- 🌱 I BUILD stuffs
+- 📫 How to reach me? email me ccryptoji@gmail.com
 
 <!---
 JaypeeB-Ph/JaypeeB-Ph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
